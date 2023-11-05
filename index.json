@@ -10,6 +10,13 @@
         {"id":6,"name":"perfume1","price":20000,"image":""},
         {"id":7,"name":"perfume1","price":20000,"image":""},
         {"id":8,"name":"perfume1","price":20000,"image":""}
+    ],
+
+    "books":[
+        {"id":5,"name":"perfume1","price":20000,"image":""},
+        {"id":6,"name":"perfume1","price":20000,"image":""},
+        {"id":7,"name":"perfume1","price":20000,"image":""},
+        {"id":8,"name":"perfume1","price":20000,"image":""}
     ]
 
     
