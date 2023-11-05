@@ -1,0 +1,16 @@
+{
+    "perfume":[
+        {"id":1,"name":"perfume1","price":20000,"image":"images/nissan gtr.png"},
+        {"id":2,"name":"perfume1","price":20000,"image":""},
+        {"id":3,"name":"perfume1","price":20000,"image":""},
+        {"id":4,"name":"perfume1","price":20000,"image":""}
+    ],
+    "cars":[
+        {"id":5,"name":"perfume1","price":20000,"image":""},
+        {"id":6,"name":"perfume1","price":20000,"image":""},
+        {"id":7,"name":"perfume1","price":20000,"image":""},
+        {"id":8,"name":"perfume1","price":20000,"image":""}
+    ]
+
+    
+}
